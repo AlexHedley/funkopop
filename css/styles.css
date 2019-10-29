@@ -1,0 +1,13 @@
+body {
+    background-color: #0D4EDD;
+}
+
+h1 {
+    color: white;
+}
+
+.active {
+    color: red;
+    font-weight: bold;
+    /* background-color: red; */
+}
