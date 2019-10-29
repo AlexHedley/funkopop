@@ -6,6 +6,62 @@
             "number":629,
             "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/gimli-1",
             "image":"images/Gimli.jpeg"
+        },
+        {
+            "name":"Witch King",
+            "description":"Witch King",
+            "number":632,
+            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/witch-king",
+            "image":"images/WitchKing.jpeg"
+        },
+        {
+            "name":"Balrog",
+            "description":"Balrog",
+            "number":448,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-6-lotr-hobbit-balrog",
+            "image":"images/Balrog.jpg"
+        },
+        {
+            "name":"Nazgul",
+            "description":"Nazgul",
+            "number":446,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-nazgul",
+            "image":"images/Nazgul.jpg"
+        },
+        {
+            "name":"Sauron",
+            "description":"Sauron",
+            "number":122,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-hobbit-3-sauron",
+            "image":"images/Sauron.jpg"
+        },
+        {
+            "name":"Boromir",
+            "description":"Boromir",
+            "number":630,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/boromir-1",
+            "image":"images/Boromir.png"
+        },
+        {
+            "name":"Legolas",
+            "description":"Legolas",
+            "number":628,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/legolas-2",
+            "image":"images/Legolas.png"
+        },
+        {
+            "name":"Saruman",
+            "description":"Saruman",
+            "number":447,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-saruman",
+            "image":"images/Saruman.jpg"
+        },
+        {
+            "name":"Gandalf",
+            "description":"Gandalf",
+            "number":443,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-gandalf",
+            "image":"images/Gandalf.jpg"
         }
     ]
 }
