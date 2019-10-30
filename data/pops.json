@@ -5,63 +5,130 @@
             "description":"Gimli",
             "number":629,
             "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/gimli-1",
-            "image":"images/Gimli.jpeg"
+            "image":"images/Gimli.jpeg",
+            "category":"LotR"
         },
         {
             "name":"Witch King",
             "description":"Witch King",
             "number":632,
             "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/witch-king",
-            "image":"images/WitchKing.jpeg"
+            "image":"images/WitchKing.jpeg",
+            "category":"LotR"
         },
         {
             "name":"Balrog",
             "description":"Balrog",
             "number":448,
             "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-6-lotr-hobbit-balrog",
-            "image":"images/Balrog.jpg"
+            "image":"images/Balrog.jpg",
+            "category":"LotR"
         },
         {
             "name":"Nazgul",
             "description":"Nazgul",
             "number":446,
             "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-nazgul",
-            "image":"images/Nazgul.jpg"
+            "image":"images/Nazgul.jpg",
+            "category":"LotR"
         },
         {
             "name":"Sauron",
             "description":"Sauron",
             "number":122,
             "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-hobbit-3-sauron",
-            "image":"images/Sauron.jpg"
+            "image":"images/Sauron.jpg",
+            "category":"LotR"
         },
         {
             "name":"Boromir",
             "description":"Boromir",
             "number":630,
             "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/boromir-1",
-            "image":"images/Boromir.png"
+            "image":"images/Boromir.png",
+            "category":"LotR"
         },
         {
             "name":"Legolas",
             "description":"Legolas",
             "number":628,
             "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/legolas-2",
-            "image":"images/Legolas.png"
+            "image":"images/Legolas.png",
+            "category":"LotR"
         },
         {
             "name":"Saruman",
             "description":"Saruman",
             "number":447,
             "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-saruman",
-            "image":"images/Saruman.jpg"
+            "image":"images/Saruman.jpg",
+            "category":"LotR"
         },
         {
             "name":"Gandalf",
             "description":"Gandalf",
             "number":443,
             "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-gandalf",
-            "image":"images/Gandalf.jpg"
+            "image":"images/Gandalf.jpg",
+            "category":"LotR"
+        },
+        {
+            "name":"Farva",
+            "description":"Trooper Rodney 'Rod' Farva",
+            "number":583,
+            "link":"https://www.funko.com/products/movies/pop/super-troopers/trooper-rodney-rod-farva",
+            "image":"images/Farva.png",
+            "category":"Super Troopers"
+        },
+        {
+            "name":"Mac",
+            "description":"Trooper MacIntyre 'Mac' Womack",
+            "number":582,
+            "link":"https://www.funko.com/products/movies/pop/super-troopers/trooper-mac-intyre-mac-womack",
+            "image":"images/.jpg",
+            "category":"Super Troopers"
+        },
+        {
+            "name":"Ramathorn",
+            "description":"Trooper Arcot 'Thorny' Ramathorn",
+            "number":581,
+            "link":"https://www.funko.com/products/movies/pop/super-troopers/trooper-arcot-thorny-ramathorn",
+            "image":"images/Ramathorn.png",
+            "category":"Super Troopers"
+        },
+        {
+            "name":"Rabbit",
+            "description":"Rabbit",
+            "number":768,
+            "link":"https://www.funko.com/products/movies/pop/super-troopers/rabbit-1",
+            "image":"images/Rabbit.png",
+            "category":"Super Troopers"
+        },
+        {
+            "name":"Foster",
+            "description":"Foster",
+            "number":767,
+            "link":"https://www.funko.com/products/movies/pop/super-troopers/foster",
+            "image":"images/Foster.png",
+            "category":"Super Troopers"
         }
+
+        ,
+        {
+            "name":"",
+            "description":"",
+            "number":,
+            "link":"",
+            "image":"images/.jpg",
+            "category":""
+        }
+        // {
+        //     "name":"",
+        //     "description":"",
+        //     "number":,
+        //     "link":"",
+        //     "image":"images/.jpg",
+        //     "category":""
+        // }
     ]
 }
