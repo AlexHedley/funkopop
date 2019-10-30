@@ -120,22 +120,6 @@
             "image":"images/Venkman.jpg",
             "category":"GhostBusters"
         },
-        // {
-        //     "name":"Dr. Peter Venkman",
-        //     "description":"Dr. Peter Venkman",
-        //     "number":744,
-        //     "link":"https://www.funko.com/products/movies/pop/ghostbusters/dr-peter-venkman",
-        //     "image":"images/PeterVenkman.png",
-        //     "category":"GhostBusters"
-        // },
-        // {
-        //     "name":"Dr. Raymond Stantz",
-        //     "description":"Dr. Raymond Stantz",
-        //     "number":745,
-        //     "link":"https://www.funko.com/products/movies/pop/ghostbusters/dr-raymond-stantz-2",
-        //     "image":"images/RaymondStantz.png",
-        //     "category":"GhostBusters"
-        // },
         {
             "name":"Dr. Raymond Stantz",
             "description":"Dr. Raymond Stantz",
@@ -144,14 +128,6 @@
             "image":"images/RayStantz.jpg",
             "category":"GhostBusters"
         },
-        // {
-        //     "name":"Dr. Egon Spengler",
-        //     "description":"Dr. Egon Spengler",
-        //     "number":743,
-        //     "link":"https://www.funko.com/products/movies/pop/ghostbusters/dr-egon-spengler-4",
-        //     "image":"images/EgonSpengler.png",
-        //     "category":"GhostBusters"
-        // },
         {
             "name":"Dr. Egon Spengler",
             "description":"Dr. Egon Spengler",
