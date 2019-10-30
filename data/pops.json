@@ -143,16 +143,30 @@
             "link":"https://www.funko.com/products/movies/pop/ghostbusters/winston-zeddemore-2",
             "image":"images/WinstonZeddemore.png",
             "category":"GhostBusters"
-        }
-
-        ,
+        },
         {
-            "name":"",
-            "description":"",
-            "number":,
-            "link":"",
+            "name":"Sub-Zero",
+            "description":"Sub-Zero",
+            "number":251,
+            "link":"https://www.funko.com/products/movies/pop/mortal-kombat/pop-games-mortal-kombat-subzero",
+            "image":"images/SubZero.png",
+            "category":"Mortal Kombat"
+        },
+        {
+            "name":"Liu Kang",
+            "description":"Liu Kang",
+            "number":252,
+            "link":"https://www.funko.com/products/movies/pop/mortal-kombat/pop-games-mortal-kombat-liu-kang",
+            "image":"images/Liu.png",
+            "category":"Mortal Kombat"
+        },
+        {
+            "name":"Raiden",
+            "description":"Raiden",
+            "number":254,
+            "link":"https://www.funko.com/products/movies/pop/mortal-kombat/pop-games-mortal-kombat-raiden",
             "image":"images/.png",
-            "category":""
+            "category":"Mortal Kombat"
         }
         // {
         //     "name":"",
