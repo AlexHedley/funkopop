@@ -3,11 +3,5 @@ body {
 }
 
 h1 {
-    color: white;
-}
-
-.active {
-    color: red;
-    font-weight: bold;
-    /* background-color: red; */
+    color: #0D4EDD;
 }

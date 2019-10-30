@@ -10,6 +10,7 @@
     <meta name="author" content="Alex Hedley">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/sticky-footer.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
     <!-- <link rel="stylesheet" href="css/jquery-ui.min.css"> -->
     <link rel="stylesheet" href="css/jquery-ui.1.12.1.min.css">
@@ -23,35 +24,56 @@
     <title>Funko Pop!</title>
   </head>
   <body ng-app="myApp">
-        
-    <div ng-controller="myController">
+    
+    <!-- Begin page content -->
+    <main role="main" class="container">
 
-        <h1>Funko Pop!</h1>
+        <section class="jumbotron title-container text-center">
+            <div>
+                <h1>Funko Pop!</h1>
 
-        <div class="container">
-            <div class="row">
-                
-                <div 
-                    ng-repeat="pop in pops"
-                >
-
-                    <div class="card" style="width: 18rem;">
-                        <img ng-src="/funkopop/{{pop.image}}" class="card-img-top" alt="{{pop.name}}">
-                        <div class="card-body">
-                            <h5 class="card-title">{{pop.name}} <span class="badge badge-secondary">{{pop.number}}</span></h5>
-                            <p class="card-text">{{pop.description}}</p>
-                            <a ng-href="{{pop.link}}" target="_blank" class="btn btn-primary">Official Link</a>
+                <div class="row justify-content-md-center">
+                    <div class="col-lg-8">
+                        <div class="input-group search-bar">
+                            <input type="text" class="form-control" ng-model='searchText' placeholder="Search for a Funko Pop!..." aria-label="Search">
+                            <button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
                         </div>
                     </div>
-
                 </div>
 
-                
-
             </div>
+        </section>
+
+        <div ng-controller="myController">
+
+            <div class="container">
+                <div class="row">
+                    <div 
+                        ng-repeat="pop in pops | filter:searchText"
+                        class="col-md-4"
+                        style="margin-bottom: 50px;"
+                    >
+                        <div class="card" style="width: 18rem;">
+                            <img ng-src="/funkopop/{{pop.image}}" class="card-img-top" alt="{{pop.name}}">
+                            <div class="card-body">
+                                <h5 class="card-title">{{pop.name}} <span class="badge badge-secondary">{{pop.number}}</span></h5>
+                                <p class="card-text">{{pop.description}}</p>
+                                <a ng-href="{{pop.link}}" target="_blank" class="btn btn-primary">Official Link</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
 
-    </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <span class="text-muted">Alex Hedley.</span>
+        </div>
+    </footer>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
