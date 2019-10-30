@@ -73,6 +73,46 @@
             "category":"LotR"
         },
         {
+            "name":"Witch King on Fellbeast",
+            "description":"Witch King on Fellbeast",
+            "number":63,
+            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/witch-king-on-fellbeast",
+            "image":"images/WitchKingFallenBeast.png",
+            "category":"LotR"
+        },
+        {
+            "name":"Treebeard",
+            "description":"Treebeard",
+            "number":529,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-6-lotr-hobbit-s3-treebeard",
+            "image":"images/TreeBeard.jpg",
+            "category":"LotR"
+        },
+        {
+            "name":"Dunharrow King",
+            "description":"Dunharrow King",
+            "number":633,
+            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/dunharrow-king",
+            "image":"images/DunharrowKing.jpeg",
+            "category":"LotR"
+        },
+        {
+            "name":"Galadriel",
+            "description":"Galadriel",
+            "number":631,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/galadriel-1",
+            "image":"images/Galadriel.png",
+            "category":"LotR"
+        },
+        {
+            "name":"Aragorn",
+            "description":"Aragorn",
+            "number":531,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-s3-aragorn",
+            "image":"images/Aragorn.png",
+            "category":"LotR"
+        },
+        {
             "name":"Farva",
             "description":"Trooper Rodney 'Rod' Farva",
             "number":583,
