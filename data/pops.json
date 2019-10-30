@@ -167,9 +167,7 @@
             "link":"https://www.funko.com/products/movies/pop/mortal-kombat/pop-games-mortal-kombat-raiden",
             "image":"images/Raiden.png",
             "category":"Mortal Kombat"
-        }
-
-        ,
+        },
         {
             "name":"King Arthur",
             "description":"King Arthur",
@@ -217,9 +215,7 @@
             "link":"https://www.funko.com/products/movies/pop/monty-python/sir-bedevere",
             "image":"images/SirBedevere.jpg",
             "category":"Monty Pyton"
-        }
-
-        ,
+        },
         {
             "name":"Dr. Emmett Brown",
             "description":"Dr. Emmett Brown",
@@ -235,6 +231,30 @@
             "link":"https://www.funko.com/products/movies/pop/back-to-the-future/pop-movie-back-to-the-future-marty",
             "image":"images/McFly.png",
             "category":"Back to the Future"
+        },
+        {
+            "name":"Tyrannosaurus Rex",
+            "description":"Tyrannosaurus",
+            "number":548,
+            "link":"https://www.funko.com/products/movies/pop/jurassic-park/pop-movies-jurassic-park-tyrannosaurus",
+            "image":"images/TyrannosaurusRex.png",
+            "category":"Jurassic Park"
+        },
+        {
+            "name":"Jon Snow",
+            "description":"Jon Snow",
+            "number":7,
+            "link":"https://www.funko.com/products/television/pop/game-of-thrones/pop-got-jon-snow",
+            "image":"images/JonSnow.png",
+            "category":"Game of Thrones"
+        },
+        {
+            "name":"Drogon",
+            "description":"Drogon",
+            "number":16,
+            "link":"https://www.funko.com/products/television/pop/game-of-thrones/pop-game-of-thrones-drogon",
+            "image":"images/Drogon.jpg",
+            "category":"Game of Thrones"
         }
     ]
 }
