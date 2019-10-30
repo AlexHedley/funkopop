@@ -85,7 +85,7 @@
             "description":"Trooper MacIntyre 'Mac' Womack",
             "number":582,
             "link":"https://www.funko.com/products/movies/pop/super-troopers/trooper-mac-intyre-mac-womack",
-            "image":"images/.jpg",
+            "image":"images/Mac.png",
             "category":"Super Troopers"
         },
         {
@@ -165,8 +165,58 @@
             "description":"Raiden",
             "number":254,
             "link":"https://www.funko.com/products/movies/pop/mortal-kombat/pop-games-mortal-kombat-raiden",
-            "image":"images/.png",
+            "image":"images/Raiden.png",
             "category":"Mortal Kombat"
+        }
+
+        ,
+        {
+            "name":"King Arthur",
+            "description":"King Arthur",
+            "number":197,
+            "link":"https://www.funko.com/products/movies/pop/monty-python/king-arthur",
+            "image":"images/KingArthur.jpg",
+            "category":"Monty Pyton"
+        },
+        {
+            "name":"Black Knight",
+            "description":"Black Knight",
+            "number":200,
+            "link":"https://www.funko.com/products/movies/pop/monty-python/pop-movies-mphg-black-knight",
+            "image":"images/BlackKnight.jpg",
+            "category":"Monty Pyton"
+        },
+        {
+            "name":"Tim the Enchanter",
+            "description":"Tim the Enchanter",
+            "number":201,
+            "link":"https://www.funko.com/products/movies/pop/monty-python/tim-the-enchanter",
+            "image":"images/Tim.jpg",
+            "category":"Monty Pyton"
+        },
+        {
+            "name":"French Taunter",
+            "description":"French Taunter",
+            "number":199,
+            "link":"https://www.funko.com/products/movies/pop/monty-python/french-taunter",
+            "image":"images/FrenchTaunter.jpg",
+            "category":"Monty Pyton"
+        },
+        {
+            "name":"Black Knight (Missing Arms)",
+            "description":"Black Knight (Missing Arms)",
+            "number":246,
+            "link":"https://www.funko.com/products/movies/pop/monty-python/pop-movies-mphg-black-knight-missing-arms",
+            "image":"images/BlackNightFLESHWOUND.jpg",
+            "category":"Monty Pyton"
+        },
+        {
+            "name":"Sir Bedevere",
+            "description":"Sir Bedevere",
+            "number":198,
+            "link":"https://www.funko.com/products/movies/pop/monty-python/sir-bedevere",
+            "image":"images/SirBedevere.jpg",
+            "category":"Monty Pyton"
         }
     ]
 }
