@@ -218,5 +218,23 @@
             "image":"images/SirBedevere.jpg",
             "category":"Monty Pyton"
         }
+
+        ,
+        {
+            "name":"Dr. Emmett Brown",
+            "description":"Dr. Emmett Brown",
+            "number":62,
+            "link":"https://www.funko.com/products/movies/pop/back-to-the-future/pop-movie-back-to-the-future-doc",
+            "image":"images/DocBrown.jpg",
+            "category":"Back to the Future"
+        },
+        {
+            "name":"Marty McFly",
+            "description":"Marty McFly",
+            "number":49,
+            "link":"https://www.funko.com/products/movies/pop/back-to-the-future/pop-movie-back-to-the-future-marty",
+            "image":"images/McFly.png",
+            "category":"Back to the Future"
+        }
     ]
 }
