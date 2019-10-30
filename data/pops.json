@@ -111,6 +111,62 @@
             "link":"https://www.funko.com/products/movies/pop/super-troopers/foster",
             "image":"images/Foster.png",
             "category":"Super Troopers"
+        },
+        {
+            "name":"Dr. Peter Venkman",
+            "description":"Dr. Peter Venkman",
+            "number":104,
+            "link":"https://www.funko.com/products/movies/pop/ghostbusters/dr-peter-venkman",
+            "image":"images/Venkman.jpg",
+            "category":"GhostBusters"
+        },
+        // {
+        //     "name":"Dr. Peter Venkman",
+        //     "description":"Dr. Peter Venkman",
+        //     "number":744,
+        //     "link":"https://www.funko.com/products/movies/pop/ghostbusters/dr-peter-venkman",
+        //     "image":"images/PeterVenkman.png",
+        //     "category":"GhostBusters"
+        // },
+        // {
+        //     "name":"Dr. Raymond Stantz",
+        //     "description":"Dr. Raymond Stantz",
+        //     "number":745,
+        //     "link":"https://www.funko.com/products/movies/pop/ghostbusters/dr-raymond-stantz-2",
+        //     "image":"images/RaymondStantz.png",
+        //     "category":"GhostBusters"
+        // },
+        {
+            "name":"Dr. Raymond Stantz",
+            "description":"Dr. Raymond Stantz",
+            "number":105,
+            "link":"https://www.funko.com/products/movies/pop/ghostbusters/pop-movies-ghostbusters-dr-raymond-stantz",
+            "image":"images/RayStantz.jpg",
+            "category":"GhostBusters"
+        },
+        // {
+        //     "name":"Dr. Egon Spengler",
+        //     "description":"Dr. Egon Spengler",
+        //     "number":743,
+        //     "link":"https://www.funko.com/products/movies/pop/ghostbusters/dr-egon-spengler-4",
+        //     "image":"images/EgonSpengler.png",
+        //     "category":"GhostBusters"
+        // },
+        {
+            "name":"Dr. Egon Spengler",
+            "description":"Dr. Egon Spengler",
+            "number":106,
+            "link":"https://www.funko.com/products/movies/pop/ghostbusters/dr-egon-spengler",
+            "image":"images/Spengler.jpg",
+            "category":"GhostBusters"
+        },
+        {
+            "name":"Winston Zeddemore",
+            "description":"Winston Zeddemore",
+            "number":746,
+            "link":"https://www.funko.com/products/movies/pop/ghostbusters/winston-zeddemore-2",
+            "image":"images/WinstonZeddemore.png",
+            "category":"GhostBusters"
         }
 
         ,
@@ -119,7 +175,7 @@
             "description":"",
             "number":,
             "link":"",
-            "image":"images/.jpg",
+            "image":"images/.png",
             "category":""
         }
         // {
