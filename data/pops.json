@@ -295,9 +295,7 @@
             "link":"https://www.funko.com/products/television/pop/game-of-thrones/pop-game-of-thrones-drogon",
             "image":"images/Drogon.jpg",
             "category":"Game of Thrones"
-        }
-
-        ,
+        },
         {
             "name":"Poison Ivy",
             "description":"Poison Ivy",
@@ -305,6 +303,14 @@
             "link":"https://www.funko.com/products/heroes/pop/dc-comics/pop-heroes-dc-bombshells-w2-poison-ivy",
             "image":"images/PoisonIvy.jpg",
             "category":"DC Comics Bombshells"
+        },
+        {
+            "name":"Maleficent",
+            "description":"Maleficent",
+            "number":224,
+            "link":"https://www.funko.com/products/movies/pop/maleficent/pop-disney-series-1-maleficent",
+            "image":"images/Maleficent.jpg",
+            "category":"Disney"
         }
     ]
 }
