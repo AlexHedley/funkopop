@@ -311,6 +311,22 @@
             "link":"https://www.funko.com/products/movies/pop/maleficent/pop-disney-series-1-maleficent",
             "image":"images/Maleficent.jpg",
             "category":"Disney"
+        },
+        {
+            "name":"Deckard",
+            "description":"Deckard",
+            "number":477,
+            "link":"https://www.funko.com/products/movies/pop/blade-runner-2049/pop-movies-blade-runner-2049-deckard",
+            "image":"images/Deckard.jpg",
+            "category":"Blade Runner 2049"
+        },
+        {
+            "name":"Officer K",
+            "description":"Officer K",
+            "number":476,
+            "link":"https://www.funko.com/products/movies/pop/blade-runner-2049/pop-movies-blade-runner-2049-officer-k",
+            "image":"images/OfficerK.jpg",
+            "category":"Blade Runner 2049"
         }
     ]
 }
