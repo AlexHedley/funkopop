@@ -327,6 +327,22 @@
             "link":"https://www.funko.com/products/movies/pop/blade-runner-2049/pop-movies-blade-runner-2049-officer-k",
             "image":"images/OfficerK.jpg",
             "category":"Blade Runner 2049"
+        },
+        {
+            "name":"Bill Lumbergh",
+            "description":"Bill Lumbergh",
+            "number":712,
+            "link":"https://www.funko.com/products/movies/pop/office-space/bill-lumbergh",
+            "image":"images/BillLumbergh.jpeg",
+            "category":"OfficeSpace"
+        },
+        {
+            "name":"Milton",
+            "description":"Milton",
+            "number":713,
+            "link":"https://www.funko.com/products/movies/pop/office-space/milton",
+            "image":"images/Milton.jpeg",
+            "category":"OfficeSpace"
         }
     ]
 }
