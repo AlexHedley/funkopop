@@ -343,6 +343,14 @@
             "link":"https://www.funko.com/products/movies/pop/office-space/milton",
             "image":"images/Milton.jpeg",
             "category":"OfficeSpace"
+        },
+        {
+            "name":"Peter Gibbons",
+            "description":"Peter Gibbons",
+            "number":710,
+            "link":"https://www.funko.com/products/movies/pop/office-space/peter-gibbons",
+            "image":"images/PeterGibbons.jpeg",
+            "category":"OfficeSpace"
         }
     ]
 }
