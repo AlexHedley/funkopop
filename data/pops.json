@@ -351,6 +351,14 @@
             "link":"https://www.funko.com/products/movies/pop/office-space/peter-gibbons",
             "image":"images/PeterGibbons.jpeg",
             "category":"OfficeSpace"
+        },
+        {
+            "name":"Joanna",
+            "description":"Joanna",
+            "number":711,
+            "link":"https://www.funko.com/products/movies/pop/office-space/joanna",
+            "image":"images/Joanna.jpeg",
+            "category":"OfficeSpace"
         }
     ]
 }
