@@ -209,6 +209,14 @@
             "category":"Mortal Kombat"
         },
         {
+            "name":"Kitana",
+            "description":"Kitana",
+            "number":253,
+            "link":"https://www.funko.com/products/all/all/product/pop-games-mortal-kombat-kitana",
+            "image":"images/Kitana.png",
+            "category":"Mortal Kombat"
+        },
+        {
             "name":"King Arthur",
             "description":"King Arthur",
             "number":197,
