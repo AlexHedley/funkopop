@@ -337,6 +337,38 @@
             "category":"Blade Runner 2049"
         },
         {
+            "name":"Luv",
+            "description":"Luv",
+            "number":479,
+            "link":"https://www.funko.com/products/movies/pop/blade-runner-2049/pop-movies-blade-runner-2049-luv-white",
+            "image":"images/Luv.jpeg",
+            "category":"Blade Runner 2049"
+        },
+        {
+            "name":"Wallace",
+            "description":"Wallace",
+            "number":478,
+            "link":"https://www.funko.com/products/movies/pop/blade-runner-2049/pop-movies-blade-runner-2049-wallace",
+            "image":"images/Wallace.jpeg",
+            "category":"Blade Runner 2049"
+        },
+        {
+            "name":"Joi",
+            "description":"Joi",
+            "number":481,
+            "link":"https://www.funko.com/products/all/all/product/pop-movies-blade-runner-2049-joi",
+            "image":"images/Joi.png",
+            "category":"Blade Runner 2049"
+        },
+        {
+            "name":"Sapper",
+            "description":"Sapper",
+            "number":480,
+            "link":"https://www.funko.com/products/movies/pop/blade-runner-2049/pop-movies-blade-runner-2049-sapper-w-chase",
+            "image":"images/Sapper.jpeg",
+            "category":"Blade Runner 2049"
+        },
+        {
             "name":"Bill Lumbergh",
             "description":"Bill Lumbergh",
             "number":712,
