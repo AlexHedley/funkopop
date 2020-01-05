@@ -49,23 +49,36 @@
             <div class="container">
 
                 <div class="row">
+                    <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                        <label class="btn btn-secondary active">
+                            <input type="radio" name="options" id="notgrouped" autocomplete="off" checked ng-model="grouped" value=""> Not Grouped
+                        </label>
+                        <label class="btn btn-secondary">
+                            <input type="radio" name="options" id="grouped" autocomplete="off" ng-model="grouped" value="category"> Grouped
+                        </label>
+                    </div>
+                    <!-- <label>{{grouped}}</label> -->
+                </div>
+                
+                <div class="row">
                     <div class="col-sm">Order:</div>
                     <div ng-repeat="order in orderOptions"
                         class="col-sm"
                     >
                         {{order.name}}
                         <a ng-click="setOrder(order.name)">▲</a>
-                        <a ng-click="setOrder(-order.name)">▼</a>
+                        <a ng-click="setOrder('-'+order.name)">▼</a>
                     </div>
                 </div>
 
                 <div class="row">
                     <div 
-                        ng-repeat="(key, value) in pops | filter:searchText | groupBy: 'category'"
+                        ng-repeat="(key, value) in pops | filter:searchText | groupBy: grouped"
                         class="col-md-4"
                         style="margin-bottom: 50px;"
                     >
-                        <h2>{{key}}</h2>
+                        <!-- <h2>{{key}}</h2> -->
+                        <h2>{{ key === 'undefined' ?  "" : key }}</h2>
                         <div ng-repeat="pop in value | orderBy:orderProp">
                             <div class="card" style="width: 18rem;">
                                 <img ng-src="/funkopop/{{pop.image}}" class="card-img-top" alt="{{pop.name}}">
