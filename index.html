@@ -47,18 +47,33 @@
         <div ng-controller="myController">
 
             <div class="container">
+
+                <div class="row">
+                    <div class="col-sm">Order:</div>
+                    <div ng-repeat="order in orderOptions"
+                        class="col-sm"
+                    >
+                        {{order.name}}
+                        <a ng-click="setOrder(order.name)">▲</a>
+                        <a ng-click="setOrder(-order.name)">▼</a>
+                    </div>
+                </div>
+
                 <div class="row">
                     <div 
-                        ng-repeat="pop in pops | filter:searchText"
+                        ng-repeat="(key, value) in pops | filter:searchText | groupBy: 'category'"
                         class="col-md-4"
                         style="margin-bottom: 50px;"
                     >
-                        <div class="card" style="width: 18rem;">
-                            <img ng-src="/funkopop/{{pop.image}}" class="card-img-top" alt="{{pop.name}}">
-                            <div class="card-body">
-                                <h5 class="card-title">{{pop.name}} <span class="badge badge-secondary">{{pop.number}}</span></h5>
-                                <p class="card-text">{{pop.description}}</p>
-                                <a ng-href="{{pop.link}}" target="_blank" class="btn btn-primary">Official Link</a>
+                        <h2>{{key}}</h2>
+                        <div ng-repeat="pop in value | orderBy:orderProp">
+                            <div class="card" style="width: 18rem;">
+                                <img ng-src="/funkopop/{{pop.image}}" class="card-img-top" alt="{{pop.name}}">
+                                <div class="card-body">
+                                    <h5 class="card-title">{{pop.name}} <span class="badge badge-secondary">{{pop.number}}</span></h5>
+                                    <p class="card-text">{{pop.description}}</p>
+                                    <a ng-href="{{pop.link}}" target="_blank" class="btn btn-primary">Official Link</a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -87,6 +102,7 @@
     <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script> -->
     <!-- <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.5/angular.min.js"></script> -->
     <script src="js/angular.min.js"></script>
+    <script src="js/angular-filter.min.js"></script>
     <script src="js/app.js"></script>
     </body>
 </html>
