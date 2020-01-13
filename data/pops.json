@@ -113,6 +113,38 @@
             "category":"LotR"
         },
         {
+            "name":"Gandalf on Gwaihir",
+            "description":"Gandalf on Gwaihir",
+            "number":72,
+            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/gandalf-on-gwaihir",
+            "image":"images/Gandalf_Gwaihir.png",
+            "category":"LotR"
+        },
+        {
+            "name":"Grishnakh",
+            "description":"Grishnakh",
+            "number":636,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-grishnakh",
+            "image":"images/Grishnakh.png",
+            "category":"LotR"
+        },
+        {
+            "name":"Frodo Baggins (Invisible)",
+            "description":"Frodo Baggins (Invisible)",
+            "number":444,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-frodo-bagginsinvisible",
+            "image":"images/Frodo_Invisible.jpg",
+            "category":"LotR"
+        },
+        {
+            "name":"Galadriel (Tempted)",
+            "description":"Galadriel (Tempted)",
+            "number":634,
+            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/galadriel-tempted",
+            "image":"images/Galadriel_Tempted.jpeg",
+            "category":"LotR"
+        },
+        {
             "name":"Farva",
             "description":"Trooper Rodney 'Rod' Farva",
             "number":583,
