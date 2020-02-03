@@ -249,19 +249,18 @@
             "category":"Mortal Kombat"
         },
         {
-<<<<<<< master
             "name":"Scorpion",
             "description":"Scorpion",
             "number":250,
             "link":"https://www.funko.com/products/movies/pop/mortal-kombat/pop-games-mortal-kombat-scorpion",
             "image":"images/Scorpion.png",
-=======
+        },
+        {
             "name":"Kitana",
             "description":"Kitana",
             "number":253,
             "link":"https://www.funko.com/products/all/all/product/pop-games-mortal-kombat-kitana",
             "image":"images/Kitana.png",
->>>>>>> origin/master
             "category":"Mortal Kombat"
         },
         {
