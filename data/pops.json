@@ -209,6 +209,14 @@
             "category":"Mortal Kombat"
         },
         {
+            "name":"Scorpion",
+            "description":"Scorpion",
+            "number":250,
+            "link":"https://www.funko.com/products/movies/pop/mortal-kombat/pop-games-mortal-kombat-scorpion",
+            "image":"images/Scorpion.png",
+            "category":"Mortal Kombat"
+        },
+        {
             "name":"King Arthur",
             "description":"King Arthur",
             "number":197,
