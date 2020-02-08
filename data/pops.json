@@ -153,6 +153,14 @@
             "category":"LotR"
         },
         {
+            "name":"Frodo Baggins",
+            "description":"Frodo Baggins",
+            "number":444,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-frodo-baggins-w-chase",
+            "image":"images/Frodo.jpg",
+            "category":"LotR"
+        },
+        {
             "name":"Farva",
             "description":"Trooper Rodney 'Rod' Farva",
             "number":583,
