@@ -161,6 +161,22 @@
             "category":"LotR"
         },
         {
+            "name":"Gollum",
+            "description":"Gollum",
+            "number":532,
+            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/pop-movies-lotr-hobbit-s3-gollum-w-chase",
+            "image":"images/Gollum.png",
+            "category":"LotR"
+        },
+        {
+            "name":"Gandalf the White",
+            "description":"Gandalf the White",
+            "number":845,
+            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/gandalf-the-white",
+            "image":"images/GandalfWhite.png",
+            "category":"LotR"
+        },
+        {
             "name":"Farva",
             "description":"Trooper Rodney 'Rod' Farva",
             "number":583,
