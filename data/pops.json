@@ -185,6 +185,14 @@
             "category":"LotR"
         },
         {
+            "name":"Samwise Gamgee",
+            "description":"Samwise Gamgee",
+            "number":445,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-samwise-gamgee",
+            "image":"images/SamwiseGamgee.jpg",
+            "category":"LotR"
+        },
+        {
             "name":"Farva",
             "description":"Trooper Rodney 'Rod' Farva",
             "number":583,
