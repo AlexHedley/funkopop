@@ -503,6 +503,14 @@
             "link":"https://www.funko.com/products/movies/pop/office-space/joanna",
             "image":"images/Joanna.jpeg",
             "category":"OfficeSpace"
+        },
+        {
+            "name":"Darth Vader",
+            "description":"Darth Vader (Lidl Exclusive)",
+            "number":157,
+            "link":"https://www.funko.com/products/movies/pop/star-wars/darth-vader-14",
+            "image":"images/DarthVader.png",
+            "category":"Star Wars"
         }
     ]
 }
