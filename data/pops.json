@@ -305,6 +305,22 @@
             "category":"Mortal Kombat"
         },
         {
+            "name":"Lui Kang",
+            "description":"Lui Kang",
+            "number":535,
+            "link":"https://www.funko.com/products/movies/pop/mortal-kombat/liu-kang-1",
+            "image":"images/LuiKang.png",
+            "category":"Mortal Kombat"
+        },
+        {
+            "name":"Raiden",
+            "description":"Raiden",
+            "number":538,
+            "link":"https://www.funko.com/products/movies/pop/mortal-kombat/raiden-6",
+            "image":"images/Raiden2.png",
+            "category":"Mortal Kombat"
+        },
+        {
             "name":"King Arthur",
             "description":"King Arthur",
             "number":197,
