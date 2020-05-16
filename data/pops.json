@@ -511,6 +511,14 @@
             "link":"https://www.funko.com/products/movies/pop/star-wars/darth-vader-14",
             "image":"images/DarthVader.png",
             "category":"Star Wars"
+        },
+        {
+            "name":"Gambit",
+            "description":"Gambit with Cards",
+            "number":553,
+            "link":"https://www.funko.com/products/heroes/pop/x-men/gambit-with-cards",
+            "image":"images/Gambit.png",
+            "category":"X-Men"
         }
     ]
 }
