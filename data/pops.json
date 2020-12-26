@@ -521,6 +521,14 @@
             "category":"Star Wars"
         },
         {
+            "name":"Darth Vader",
+            "description":"Darth Vader (Electrocuted)",
+            "number":288,
+            "link":"https://funkoeurope.com/products/electrocuted-vader-star-wars",
+            "image":"images/DarthVaderElectrocuted.png",
+            "category":"Star Wars"
+        },
+        {
             "name":"Gambit",
             "description":"Gambit with Cards",
             "number":553,
