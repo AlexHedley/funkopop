@@ -433,6 +433,22 @@
             "category":"Disney"
         },
         {
+            "name":"Rick Deckard",
+            "description":"Rick Deckard",
+            "number":1032,
+            "link":"https://www.funko.com/shop/details/movies-blade-runner-rick-deckard-pop",
+            "image":"images/1032_BladeRunner_RickDeckard.png",
+            "category":"Blade Runner"
+        },
+        {
+            "name":"Pris",
+            "description":"Pris",
+            "number":1035,
+            "link":"https://www.funko.com/shop/details/movies-blade-runner-pris-pop",
+            "image":"images/1035_BladeRunner_Pris.png",
+            "category":"Blade Runner"
+        },
+        {
             "name":"Deckard",
             "description":"Deckard",
             "number":477,
