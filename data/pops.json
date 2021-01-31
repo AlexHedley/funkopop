@@ -441,6 +441,14 @@
             "category":"Blade Runner"
         },
         {
+            "name":"Roy Batty",
+            "description":"Roy Batty",
+            "number":1034,
+            "link":"https://www.funko.com/shop/details/movies-blade-runner-roy-batty-pop",
+            "image":"images/1034_BladeRunner_RoyBatty.png",
+            "category":"Blade Runner"
+        },
+        {
             "name":"Pris",
             "description":"Pris",
             "number":1035,
