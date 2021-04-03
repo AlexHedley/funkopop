@@ -185,6 +185,14 @@
             "category":"LotR"
         },
         {
+            "name":"Pippin Took",
+            "description":"Pippin Took",
+            "number":530,
+            "link":"https://www.zavvi.com/merch-figures/the-lord-of-the-rings-pippin-took-funko-pop-vinyl/11564430.html",
+            "image":"images/PippinTook.png",
+            "category":"LotR"
+        },
+        {
             "name":"Samwise Gamgee",
             "description":"Samwise Gamgee",
             "number":445,
