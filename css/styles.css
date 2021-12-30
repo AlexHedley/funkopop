@@ -5,3 +5,8 @@ body {
 h1 {
     color: #0D4EDD;
 }
+
+.carousel-caption {
+    color: #0D4EDD;
+    background-color: rgb(255, 255, 255, 0.6); /*white;*/
+}
