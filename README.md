@@ -22,6 +22,12 @@ Images are taken from [Funko](https://www.funko.com/)
 - [ ] ordering
 - [ ] group by `category`.
 
+## Run
+
+`py -m http.server`
+
+- [local](http://localhost:8000/)
+
 ## Contributing
 
 If you wish to help out and add any extra functionality please do open a [PR](https://github.com/AlexHedley/funkopop/pulls).
