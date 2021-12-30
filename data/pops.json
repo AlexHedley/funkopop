@@ -580,9 +580,25 @@
             "name":"Gambit",
             "description":"Gambit with Bo Staff",
             "number":554,
-            "link":"https://www.funko.com/products/heroes/pop/x-men/gambit-with-cards",
+            "link":"",
             "image":"images/gambit_staff.jpg",
             "category":"X-Men"
+        },
+        {
+            "name":"Ruth Wilder",
+            "description":"Ruth Wilder",
+            "number":659,
+            "link":"",
+            "image":"images/GLOW_Ruth_Wilder.jpg",
+            "category":"GLOW"
+        },
+        {
+            "name":"Debbie Eagan",
+            "description":"Debbie Eagan",
+            "number":660,
+            "link":"",
+            "image":"images/GLOW_Debbie_Eagan.jpg",
+            "category":"GLOW"
         }
     ]
 }
