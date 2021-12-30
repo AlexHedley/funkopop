@@ -57,7 +57,7 @@
                             </ol>
                             <div class="carousel-inner">
                                 <div ng-repeat="set in sets" class="carousel-item" ng-class='{active:$first}'>
-                                    <img src="/funkopop/{{pop.image}}" class="d-block w-100" alt="{{set.name}}">
+                                    <img src="/funkopop/{{pop.image}}" class="d-block w-100" alt="{{pop.name}}">
                                     <div class="carousel-caption d-none d-md-block">
                                         <h5>{{pop.name}}</h5>
                                         <p>{{pop.description}}</p>
@@ -90,7 +90,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">{{pop.name}} <span class="badge badge-secondary">{{pop.number}}</span></h5>
                                 <p class="card-text">{{pop.description}}</p>
-                                <a ng-href="{{pop.link}}" target="_blank" class="btn btn-primary">Official Link</a>
+                                <a ng-if="set.link.length > 0" ng-href="{{pop.link}}" target="_blank" class="btn btn-primary">Official Link</a>
                             </div>
                         </div>
                     </div>
