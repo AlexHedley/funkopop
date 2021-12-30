@@ -575,6 +575,14 @@
             "link":"https://www.funko.com/products/heroes/pop/x-men/gambit-with-cards",
             "image":"images/Gambit.png",
             "category":"X-Men"
+        },
+        {
+            "name":"Gambit",
+            "description":"Gambit with Bo Staff",
+            "number":554,
+            "link":"https://www.funko.com/products/heroes/pop/x-men/gambit-with-cards",
+            "image":"images/gambit_staff.jpg",
+            "category":"X-Men"
         }
     ]
 }
