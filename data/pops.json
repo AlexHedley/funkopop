@@ -599,6 +599,30 @@
             "link":"",
             "image":"images/GLOW_Debbie_Eagan.jpg",
             "category":"GLOW"
+        },
+        {
+            "name":"Neo",
+            "description":"2021",
+            "number":1172,
+            "link":"https://funkoeurope.com/products/neo-matrix-2021",
+            "image":"images/Neo.png",
+            "category":"The Matrix"
+        },
+        {
+            "name":"Trinity",
+            "description":"2021",
+            "number":1173,
+            "link":"https://funkoeurope.com/products/trinity-matrix-2021",
+            "image":"images/Trinity.png",
+            "category":"The Matrix"
+        },
+        {
+            "name":"Morpheus",
+            "description":"2021",
+            "number":1174,
+            "link":"https://funkoeurope.com/products/morpheus-matrix-2021",
+            "image":"images/Morpheus.png",
+            "category":"The Matrix"
         }
     ]
 }
