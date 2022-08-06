@@ -1,115 +1,11 @@
 {
     "pops": [
         {
-            "name":"Gimli",
-            "description":"Gimli",
-            "number":629,
-            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/gimli-1",
-            "image":"images/Gimli.jpeg",
-            "category":"LotR"
-        },
-        {
-            "name":"Witch King",
-            "description":"Witch King",
-            "number":632,
-            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/witch-king",
-            "image":"images/WitchKing.jpeg",
-            "category":"LotR"
-        },
-        {
-            "name":"Balrog",
-            "description":"Balrog",
-            "number":448,
-            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-6-lotr-hobbit-balrog",
-            "image":"images/Balrog.jpg",
-            "category":"LotR"
-        },
-        {
-            "name":"Nazgul",
-            "description":"Nazgul",
-            "number":446,
-            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-nazgul",
-            "image":"images/Nazgul.jpg",
-            "category":"LotR"
-        },
-        {
-            "name":"Sauron",
-            "description":"Sauron",
-            "number":122,
-            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-hobbit-3-sauron",
-            "image":"images/Sauron.jpg",
-            "category":"LotR"
-        },
-        {
-            "name":"Boromir",
-            "description":"Boromir",
-            "number":630,
-            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/boromir-1",
-            "image":"images/Boromir.png",
-            "category":"LotR"
-        },
-        {
-            "name":"Legolas",
-            "description":"Legolas",
-            "number":628,
-            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/legolas-2",
-            "image":"images/Legolas.png",
-            "category":"LotR"
-        },
-        {
-            "name":"Saruman",
-            "description":"Saruman",
-            "number":447,
-            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-saruman",
-            "image":"images/Saruman.jpg",
-            "category":"LotR"
-        },
-        {
-            "name":"Gandalf",
-            "description":"Gandalf",
-            "number":443,
-            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-gandalf",
-            "image":"images/Gandalf.jpg",
-            "category":"LotR"
-        },
-        {
             "name":"Witch King on Fellbeast",
             "description":"Witch King on Fellbeast",
             "number":63,
             "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/witch-king-on-fellbeast",
             "image":"images/WitchKingFallenBeast.png",
-            "category":"LotR"
-        },
-        {
-            "name":"Treebeard",
-            "description":"Treebeard",
-            "number":529,
-            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-6-lotr-hobbit-s3-treebeard",
-            "image":"images/TreeBeard.png",
-            "category":"LotR"
-        },
-        {
-            "name":"Dunharrow King",
-            "description":"Dunharrow King",
-            "number":633,
-            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/dunharrow-king",
-            "image":"images/DunharrowKing.jpeg",
-            "category":"LotR"
-        },
-        {
-            "name":"Galadriel",
-            "description":"Galadriel",
-            "number":631,
-            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/galadriel-1",
-            "image":"images/Galadriel.png",
-            "category":"LotR"
-        },
-        {
-            "name":"Aragorn",
-            "description":"Aragorn",
-            "number":531,
-            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-s3-aragorn",
-            "image":"images/Aragorn.png",
             "category":"LotR"
         },
         {
@@ -121,35 +17,19 @@
             "category":"LotR"
         },
         {
-            "name":"Grishnakh",
-            "description":"Grishnakh",
-            "number":636,
-            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-grishnakh",
-            "image":"images/Grishnakh.png",
+            "name":"Sauron",
+            "description":"Sauron",
+            "number":122,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-hobbit-3-sauron",
+            "image":"images/Sauron.jpg",
             "category":"LotR"
         },
         {
-            "name":"Frodo Baggins (Invisible)",
-            "description":"Frodo Baggins (Invisible)",
-            "number":444,
-            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-frodo-bagginsinvisible",
-            "image":"images/Frodo_Invisible.jpg",
-            "category":"LotR"
-        },
-        {
-            "name":"Galadriel (Tempted)",
-            "description":"Galadriel (Tempted)",
-            "number":634,
-            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/galadriel-tempted",
-            "image":"images/Galadriel_Tempted.jpeg",
-            "category":"LotR"
-        },
-        {
-            "name":"Lurtz",
-            "description":"Lurtz",
-            "number":533,
-            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-s3-lurtz",
-            "image":"images/Lurtz.png",
+            "name":"Gandalf",
+            "description":"Gandalf",
+            "number":443,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-gandalf",
+            "image":"images/Gandalf.jpg",
             "category":"LotR"
         },
         {
@@ -161,19 +41,51 @@
             "category":"LotR"
         },
         {
-            "name":"Gollum",
-            "description":"Gollum",
-            "number":532,
-            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/pop-movies-lotr-hobbit-s3-gollum-w-chase",
-            "image":"images/Gollum.png",
+            "name":"Frodo Baggins (Invisible)",
+            "description":"Frodo Baggins (Invisible)",
+            "number":444,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-frodo-bagginsinvisible",
+            "image":"images/Frodo_Invisible.jpg",
             "category":"LotR"
         },
         {
-            "name":"Gandalf the White",
-            "description":"Gandalf the White",
-            "number":845,
-            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/gandalf-the-white",
-            "image":"images/GandalfWhite.png",
+            "name":"Frodo Baggins (Glow Chase)",
+            "description":"Frodo Baggins (Glow Chase) Limited Edition",
+            "number":444,
+            "link":"",
+            "image":"images/Frodo_GlowChase.jpg",
+            "category":"LotR"
+        },
+        {
+            "name":"Samwise Gamgee",
+            "description":"Samwise Gamgee",
+            "number":445,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-samwise-gamgee",
+            "image":"images/SamwiseGamgee.jpg",
+            "category":"LotR"
+        },
+        {
+            "name":"Nazgul",
+            "description":"Nazgul",
+            "number":446,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-nazgul",
+            "image":"images/Nazgul.jpg",
+            "category":"LotR"
+        },
+        {
+            "name":"Saruman",
+            "description":"Saruman",
+            "number":447,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-saruman",
+            "image":"images/Saruman.jpg",
+            "category":"LotR"
+        },
+        {
+            "name":"Balrog",
+            "description":"Balrog",
+            "number":448,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-6-lotr-hobbit-balrog",
+            "image":"images/Balrog.jpg",
             "category":"LotR"
         },
         {
@@ -193,12 +105,116 @@
             "category":"LotR"
         },
         {
-            "name":"Samwise Gamgee",
-            "description":"Samwise Gamgee",
-            "number":445,
-            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-samwise-gamgee",
-            "image":"images/SamwiseGamgee.jpg",
+            "name":"Treebeard",
+            "description":"Treebeard",
+            "number":529,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-6-lotr-hobbit-s3-treebeard",
+            "image":"images/TreeBeard.png",
             "category":"LotR"
+        },
+        {
+            "name":"Aragorn",
+            "description":"Aragorn",
+            "number":531,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-s3-aragorn",
+            "image":"images/Aragorn.png",
+            "category":"LotR"
+        },
+        {
+            "name":"Gollum",
+            "description":"Gollum",
+            "number":532,
+            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/pop-movies-lotr-hobbit-s3-gollum-w-chase",
+            "image":"images/Gollum.png",
+            "category":"LotR"
+        },
+        {
+            "name":"Lurtz",
+            "description":"Lurtz",
+            "number":533,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-s3-lurtz",
+            "image":"images/Lurtz.png",
+            "category":"LotR"
+        },
+        {
+            "name":"Gimli",
+            "description":"Gimli",
+            "number":629,
+            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/gimli-1",
+            "image":"images/Gimli.jpeg",
+            "category":"LotR"
+        },
+        {
+            "name":"Legolas",
+            "description":"Legolas",
+            "number":628,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/legolas-2",
+            "image":"images/Legolas.png",
+            "category":"LotR"
+        },
+        {
+            "name":"Boromir",
+            "description":"Boromir",
+            "number":630,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/boromir-1",
+            "image":"images/Boromir.png",
+            "category":"LotR"
+        },
+        {
+            "name":"Galadriel",
+            "description":"Galadriel",
+            "number":631,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/galadriel-1",
+            "image":"images/Galadriel.png",
+            "category":"LotR"
+        },
+        {
+            "name":"Witch King",
+            "description":"Witch King",
+            "number":632,
+            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/witch-king",
+            "image":"images/WitchKing.jpeg",
+            "category":"LotR"
+        },
+        {
+            "name":"Dunharrow King",
+            "description":"Dunharrow King",
+            "number":633,
+            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/dunharrow-king",
+            "image":"images/DunharrowKing.jpeg",
+            "category":"LotR"
+        },
+        {
+            "name":"Galadriel (Tempted)",
+            "description":"Galadriel (Tempted)",
+            "number":634,
+            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/galadriel-tempted",
+            "image":"images/Galadriel_Tempted.jpeg",
+            "category":"LotR"
+        },
+        {
+            "name":"Grishnakh",
+            "description":"Grishnakh",
+            "number":636,
+            "link":"https://www.funko.com/products/movies/pop/lord-of-the-rings/pop-movies-lotr-hobbit-grishnakh",
+            "image":"images/Grishnakh.png",
+            "category":"LotR"
+        },
+        {
+            "name":"Gandalf the White",
+            "description":"Gandalf the White",
+            "number":845,
+            "link":"https://www.funko.com/products/movies/pop/the-lord-of-the-rings/gandalf-the-white",
+            "image":"images/GandalfWhite.png",
+            "category":"LotR"
+        },
+        {
+            "name":"Gandalf",
+            "description":"Gandalf",
+            "number":13,
+            "link":"",
+            "image":"images/Gandalf_TH_Hat.jpg",
+            "category":"The Hobbit"
         },
         {
             "name":"Farva",
