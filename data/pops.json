@@ -209,6 +209,14 @@
       "category": "LotR"
     },
     {
+      "name": "Bilbo Baggins",
+      "description": "Bilbo Baggins",
+      "number": 12,
+      "link": "",
+      "image": "images/Bilbo_Baggins.jpg",
+      "category": "The Hobbit"
+    },
+    {
       "name": "Gandalf",
       "description": "Gandalf",
       "number": 13,
