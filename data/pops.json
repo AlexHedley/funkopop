@@ -233,6 +233,22 @@
       "category": "The Hobbit"
     },
     {
+      "name": "Leoglas Greenleaf",
+      "description": "Leoglas Greenleaf",
+      "number": 46,
+      "link": "",
+      "image": "images/Hobbit_LegolasGreenleaf_46.jpg",
+      "category": "The Hobbit"
+    },
+    {
+      "name": "Azog",
+      "description": "Azog",
+      "number": 48,
+      "link": "",
+      "image": "images/Hobbit_Azog_48.jpg",
+      "category": "The Hobbit"
+    },
+    {
       "name": "Farva",
       "description": "Trooper Rodney 'Rod' Farva",
       "number": 583,
