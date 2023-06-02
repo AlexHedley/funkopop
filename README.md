@@ -24,6 +24,8 @@ Images are taken from [Funko](https://www.funko.com/)
 
 ## Run
 
+`cd src`
+
 `py -m http.server`
 
 - [local](http://localhost:8000/)
@@ -32,12 +34,12 @@ Images are taken from [Funko](https://www.funko.com/)
 
 If you wish to help out and add any extra functionality please do open a [PR](https://github.com/AlexHedley/funkopop/pulls).
 
-And don't forget to add yourself to the [CONTRIBUTORS](CONTRIBUTORS.md) file.
+And don't forget to add yourself to the [CONTRIBUTORS](docs/CONTRIBUTORS.md) file.
 
 ## License
 
 - [MIT License](LICENSE)
 
-## Acknowledgements
+## Docs
 
-- [ACKNOWLEDGEMENTS](ACKNOWLEDGEMENTS.md)
+- [Docs](README.md)
