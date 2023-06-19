@@ -695,6 +695,22 @@
       "link": "https://funkoeurope.com/products/morpheus-matrix-2021",
       "image": "images/TheAnalyst-1176.jpeg",
       "category": "The Matrix"
+    },
+    {
+      "name": "Undertaker",
+      "description": "Glows in the dark",
+      "number": 69,
+      "link": "",
+      "image": "images/Undertaker-GITD-69.jpg",
+      "category": "WWE"
+    },
+    {
+      "name": "Undertaker",
+      "description": "",
+      "number": 81,
+      "link": "",
+      "image": "images/Undertaker-81.jpg",
+      "category": "WWE"
     }
   ]
 }
