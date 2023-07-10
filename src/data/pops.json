@@ -698,6 +698,14 @@
     },
     {
       "name": "Undertaker",
+      "description": "",
+      "number": 69,
+      "link": "",
+      "image": "images/Undertaker-69.jpg",
+      "category": "WWE"
+    },
+    {
+      "name": "Undertaker",
       "description": "Glows in the dark",
       "number": 69,
       "link": "",
