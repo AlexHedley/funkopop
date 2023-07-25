@@ -209,6 +209,14 @@
       "category": "LotR"
     },
     {
+      "name": "Gandalf the White",
+      "description": "Glows in the dark",
+      "number": 1203,
+      "link": "",
+      "image": "images/GandalfWhite_GiD.jpg",
+      "category": "LotR"
+    },
+    {
       "name": "Smeagol",
       "description": "Smeagol",
       "number": 1295,
