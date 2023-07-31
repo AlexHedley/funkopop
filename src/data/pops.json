@@ -89,6 +89,14 @@
       "category": "LotR"
     },
     {
+      "name": "Twilight Ringwraith",
+      "description": "Exclusive",
+      "number": 449,
+      "link": "",
+      "image": "images/TwilightRingwraith.jpg",
+      "category": "LotR"
+    },
+    {
       "name": "Merry Brandybuck",
       "description": "Merry Brandybuck",
       "number": 528,
@@ -262,6 +270,14 @@
       "number": 48,
       "link": "",
       "image": "images/Hobbit_Azog_48.jpg",
+      "category": "The Hobbit"
+    },
+    {
+      "name": "Smaug",
+      "description": "",
+      "number": 124,
+      "link": "",
+      "image": "images/Smaug.jpg",
       "category": "The Hobbit"
     },
     {
