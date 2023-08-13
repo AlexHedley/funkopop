@@ -233,6 +233,14 @@
       "category": "LotR"
     },
     {
+      "name": "Frodo",
+      "description": "With the ring",
+      "number": 1389,
+      "link": "",
+      "image": "images/Frodo-with-the-ring-1389.png",
+      "category": "LotR"
+    },
+    {
       "name": "Bilbo Baggins",
       "description": "Bilbo Baggins",
       "number": 12,
