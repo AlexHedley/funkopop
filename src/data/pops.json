@@ -137,6 +137,16 @@
       "category": "LotR"
     },
     {
+      "name": "Gollum  (Invisible)",
+      "description": "Gollum (Invisible)",
+      "number": 532,
+      "link": "",
+      "image": "images/Gollum_Invisible.jpg",
+      "category": "LotR",
+      "paid": "£18 + £4.69"
+
+    },
+    {
       "name": "Lurtz",
       "description": "Lurtz",
       "number": 533,
@@ -250,6 +260,15 @@
       "category": "The Hobbit"
     },
     {
+      "name": "Bilbo Baggins (Invisible)",
+      "description": "Bilbo Baggins (Invisible)",
+      "number": 44,
+      "link": "",
+      "image": "images/BilboBaggins_Invisible.jpg",
+      "category": "The Hobbit",
+      "paid": "£24.99"
+    },
+    {
       "name": "Gandalf",
       "description": "Gandalf",
       "number": 13,
@@ -280,6 +299,15 @@
       "link": "",
       "image": "images/Hobbit_Azog_48.jpg",
       "category": "The Hobbit"
+    },
+    {
+      "name": "Tauriel",
+      "description": "Tauriel",
+      "number": 123,
+      "link": "",
+      "image": "images/Tauriel.png",
+      "category": "The Hobbit",
+      "paid": "£30 + £2.87"
     },
     {
       "name": "Smaug",
