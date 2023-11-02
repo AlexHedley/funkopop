@@ -144,7 +144,15 @@
       "image": "images/Gollum_Invisible.jpg",
       "category": "LotR",
       "paid": "£18 + £4.69"
-
+    },
+    {
+      "name": "Gollum  (Chase)",
+      "description": "Limited Edition Chase",
+      "number": 532,
+      "link": "",
+      "image": "images/Gollum_Chase.jpeg",
+      "category": "LotR",
+      "paid": "£22.99"
     },
     {
       "name": "Lurtz",
@@ -316,6 +324,24 @@
       "link": "",
       "image": "images/Smaug.jpg",
       "category": "The Hobbit"
+    },
+    {
+      "name": "Smaug (Chase)",
+      "description": "Limited Edition Chase",
+      "number": 124,
+      "link": "",
+      "image": "images/Smaug_Chase.jpeg",
+      "category": "The Hobbit",
+      "paid": "£31.71 + £3.29"
+    },
+    {
+      "name": "Smaug (Gold)",
+      "description": "",
+      "number": 124,
+      "link": "",
+      "image": "images/Smaug_GOld.jpeg",
+      "category": "The Hobbit",
+      "paid": "£25.57"
     },
     {
       "name": "Farva",
