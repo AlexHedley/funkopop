@@ -61,11 +61,7 @@
         <div class="container">
           <div class="row justify-content-md-center">
             <div class="">
-              <div
-                id="carouselExampleCaptions"
-                class="carousel slide"
-                data-ride="carousel"
-              >
+              <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
                   <li
                     ng-repeat="pop in pops"
@@ -149,6 +145,31 @@
               </div>
             </div>
           </div>
+
+          <br />
+
+          <div class="row">
+            <div class="col">
+              <h2>Wanted</h2>
+            </div>
+          </div>
+
+          <div class="row">
+            <div ng-repeat="pop in wantedpops | filter:searchText" class="col-md-4" style="margin-bottom: 50px">
+              <div class="card" style="width: 18rem">
+                <img ng-src="/{{pop.image}}" class="card-img-top" style="filter: grayscale(1);" alt="{{pop.name}}" />
+                <div class="card-body">
+                  <h5 class="card-title">
+                    {{pop.name}}
+                    <span class="badge badge-secondary">{{pop.number}}</span>
+                  </h5>
+                  <p class="card-text">{{pop.description}}</p>
+                  <a ng-if="set.link.length > 0" ng-href="{{pop.link}}" target="_blank"class="btn btn-primary">Official Link</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
         </div>
       </div>
     </main>
