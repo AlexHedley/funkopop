@@ -728,6 +728,30 @@
       "category": "X-Men"
     },
     {
+      "name": "Gambit",
+      "description": "Zombie",
+      "number": 793,
+      "link": "",
+      "image": "images/gambit_zombie.png",
+      "category": "X-Men"
+    },
+    {
+      "name": "Gambit",
+      "description": "97",
+      "number": 1279,
+      "link": "https://funko.com/pop-gambit-x-men-97/74815.html",
+      "image": "images/ggambit_97.png",
+      "category": "X-Men"
+    },
+    {
+      "name": "Magneto",
+      "description": "97",
+      "number": 1281,
+      "link": "https://funkoeurope.com/products/magneto-x-men-97",
+      "image": "images/magneto.png",
+      "category": "X-Men"
+    },
+    {
       "name": "Ruth Wilder",
       "description": "Ruth Wilder",
       "number": 659,
