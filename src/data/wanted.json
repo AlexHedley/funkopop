@@ -28,6 +28,24 @@
             "paid": ""
         },
         {
+            "name": "Gandalf vs Balrog",
+            "description": "",
+            "number": 1275,
+            "link": "",
+            "image": "images/wanted/gandalfvsbalrog.png",
+            "category": "LotR",
+            "paid": ""
+        },
+        {
+            "name": "Sauron",
+            "description": "Glow In The Dark",
+            "number": 1487,
+            "link": "",
+            "image": "images/wanted/sauron_gitd.jpg",
+            "category": "LotR",
+            "paid": ""
+        },
+        {
             "name": "Gollum",
             "description": "",
             "number": 14,
