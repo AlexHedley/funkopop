@@ -243,6 +243,15 @@
       "category": "LotR"
     },
     {
+        "name": "Gandalf vs Balrog",
+        "description": "",
+        "number": 1275,
+        "link": "",
+        "image": "images/gandalfvsbalrog.png",
+        "category": "LotR",
+        "paid": "£45"
+    },
+    {
       "name": "Smeagol",
       "description": "Smeagol",
       "number": 1295,
@@ -258,6 +267,24 @@
       "image": "images/Frodo-with-the-ring-1389.png",
       "category": "LotR",
       "paid": "£27.99"
+    },
+    {
+      "name": "Aragorn",
+      "description": "Glow In The Dark",
+      "number": 1444,
+      "link": "",
+      "image": "images/aragorn_gitd.png",
+      "category": "LotR",
+      "paid": "£21.99"
+    },
+    {
+      "name": "Sauron",
+      "description": "Glow In The Dark",
+      "number": 1487,
+      "link": "",
+      "image": "images/sauron_gitd.jpg",
+      "category": "LotR",
+      "paid": "£21.99"
     },
     {
       "name": "Bilbo Baggins",
