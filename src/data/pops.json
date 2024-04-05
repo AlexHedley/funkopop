@@ -767,7 +767,7 @@
       "description": "97",
       "number": 1279,
       "link": "https://funko.com/pop-gambit-x-men-97/74815.html",
-      "image": "images/ggambit_97.png",
+      "image": "images/gambit_97.png",
       "category": "X-Men"
     },
     {
@@ -837,6 +837,14 @@
     {
       "name": "Undertaker",
       "description": "",
+      "number": 8,
+      "link": "",
+      "image": "images/undertaker-8.jpg",
+      "category": "WWE"
+    },
+    {
+      "name": "Undertaker",
+      "description": "",
       "number": 69,
       "link": "",
       "image": "images/Undertaker-69.jpg",
@@ -857,6 +865,48 @@
       "link": "",
       "image": "images/Undertaker-81.jpg",
       "category": "WWE"
+    },
+    {
+      "name": "Undertaker",
+      "description": "with casket",
+      "number": 106,
+      "link": "",
+      "image": "images/undertaker-casket.jpg",
+      "category": "WWE"
+    },
+    {
+      "name": "Undertaker",
+      "description": "and Paul Bearer",
+      "number": 0,
+      "link": "",
+      "image": "images/undertaker-paul-bearer.jpg",
+      "category": "WWE"
+    },
+    {
+      "name": "Undertaker",
+      "description": "and Brock Lesnar",
+      "number": 0,
+      "link": "",
+      "image": "images/undertaker-and-brock-lesnar.png",
+      "category": "WWE"
+    },
+    {
+      "name": "Kane",
+      "description": "Hall of Fame",
+      "number": 143,
+      "link": "https://funkoeurope.com/products/kane-wwe-hall-of-fame",
+      "image": "images/Kane_HOF.png",
+      "category": "WWE",
+      "paid": "£30"
+    },
+    {
+      "name": "Undertaker",
+      "description": "Hall of Fame",
+      "number": 144,
+      "link": "https://funkoeurope.com/products/undertaker-wwe-hall-of-fame",
+      "image": "images/Undertaker_HOF.png",
+      "category": "WWE",
+      "paid": "£30"
     }
   ]
 }
