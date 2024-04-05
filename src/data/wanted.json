@@ -28,6 +28,15 @@
             "paid": ""
         },
         {
+            "name": "Théoden",
+            "description": "Funko Exclusive",
+            "number": 1467,
+            "link": "https://funko.com/pop-theoden/75702.html",
+            "image": "images/wanted/Theoden.png",
+            "category": "LotR",
+            "paid": ""
+        },
+        {
             "name": "Gollum",
             "description": "",
             "number": 14,
