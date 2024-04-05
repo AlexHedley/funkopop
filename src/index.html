@@ -124,6 +124,7 @@
             >
               <div class="card" style="width: 18rem">
                 <img
+                  ng-if="pop.image.length > 0"
                   ng-src="/funkopop/{{pop.image}}"
                   class="card-img-top"
                   alt="{{pop.name}}"

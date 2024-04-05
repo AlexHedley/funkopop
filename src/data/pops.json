@@ -273,7 +273,7 @@
       "description": "Glow In The Dark",
       "number": 1444,
       "link": "",
-      "image": "images/aragorn_gitd.png",
+      "image": "images/aragorn-gitd.png",
       "category": "LotR",
       "paid": "£21.99"
     },
@@ -839,7 +839,7 @@
       "description": "",
       "number": 8,
       "link": "",
-      "image": "images/undertaker-8.jpg",
+      "image": "images/undertaker-8.png",
       "category": "WWE"
     },
     {
