@@ -19,6 +19,15 @@
             "paid": ""
         },
         {
+            "name": "Balrog",
+            "description": "Glows in the Dark",
+            "number": 448,
+            "link": "",
+            "image": "images/wanted/Balrog_GitD.jpg",
+            "category": "LotR",
+            "paid": ""
+        },
+        {
             "name": "King Aragorn",
             "description": "Special Edition",
             "number": 534,
