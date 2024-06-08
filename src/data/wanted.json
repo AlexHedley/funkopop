@@ -1,85 +1,67 @@
 {
-    "pops": [
-        {
-            "name": "Aragorn & Arwen",
-            "description": "2017 Summer Convention Exclusive",
-            "number": 0,
-            "link": "",
-            "image": "images/wanted/AragornArwen.jpg",
-            "category": "LotR",
-            "paid": ""
-        },
-        {
-            "name": "Samwise Gamgee",
-            "description": "Glows in the Dark",
-            "number": 445,
-            "link": "",
-            "image": "images/wanted/samwise-gamgee-gitd.jpg",
-            "category": "LotR",
-            "paid": ""
-        },
-        {
-            "name": "Balrog",
-            "description": "Glows in the Dark",
-            "number": 448,
-            "link": "",
-            "image": "images/wanted/Balrog_GitD.jpg",
-            "category": "LotR",
-            "paid": ""
-        },
-        {
-            "name": "King Aragorn",
-            "description": "Special Edition",
-            "number": 534,
-            "link": "",
-            "image": "images/wanted/KingAragorn.jpg",
-            "category": "LotR",
-            "paid": ""
-        },
-        {
-            "name": "Elrond",
-            "description": "Hot Topic Exclusive",
-            "number": 635,
-            "link": "",
-            "image": "images/wanted/Elrond.jpg",
-            "category": "LotR",
-            "paid": ""
-        },
-        {
-            "name": "Théoden",
-            "description": "Funko Exclusive",
-            "number": 1467,
-            "link": "https://funko.com/pop-theoden/75702.html",
-            "image": "images/wanted/Theoden.png",
-            "category": "LotR",
-            "paid": ""
-        },
-        {
-            "name": "Gollum",
-            "description": "",
-            "number": 14,
-            "link": "",
-            "image": "images/wanted/Gollum_TheHobbit.jpeg",
-            "category": "The Hobbit",
-            "paid": ""
-        },
-        {
-            "name": "Legolas Greenleaf",
-            "description": "Hot Topic Exclusive",
-            "number": 46,
-            "link": "",
-            "image": "images/wanted/LegolasGreenleaf_TheHobbit.png",
-            "category": "The Hobbit",
-            "paid": ""
-        },
-        {
-            "name": "Thorin Oakenshield",
-            "description": "",
-            "number": 47,
-            "link": "",
-            "image": "images/wanted/ThorinOakenshield_TheHobbit.jpg",
-            "category": "The Hobbit",
-            "paid": ""
-        }
-    ]
+  "pops": [
+    {
+      "name": "Aragorn & Arwen",
+      "description": "2017 Summer Convention Exclusive",
+      "number": 0,
+      "link": "",
+      "image": "images/wanted/AragornArwen.jpg",
+      "category": "LotR",
+      "paid": ""
+    },
+    {
+      "name": "Balrog",
+      "description": "Glows in the Dark",
+      "number": 448,
+      "link": "",
+      "image": "images/wanted/Balrog_GitD.jpg",
+      "category": "LotR",
+      "paid": ""
+    },
+    {
+      "name": "King Aragorn",
+      "description": "Special Edition",
+      "number": 534,
+      "link": "",
+      "image": "images/wanted/KingAragorn.jpg",
+      "category": "LotR",
+      "paid": ""
+    },
+    {
+      "name": "Elrond",
+      "description": "Hot Topic Exclusive",
+      "number": 635,
+      "link": "",
+      "image": "images/wanted/Elrond.jpg",
+      "category": "LotR",
+      "paid": ""
+    },
+    {
+      "name": "Gollum",
+      "description": "",
+      "number": 14,
+      "link": "",
+      "image": "images/wanted/Gollum_TheHobbit.jpeg",
+      "category": "The Hobbit",
+      "paid": ""
+    },
+    {
+      "name": "Legolas Greenleaf",
+      "description": "Hot Topic Exclusive",
+      "number": 46,
+      "link": "",
+      "image": "images/wanted/LegolasGreenleaf_TheHobbit.png",
+      "category": "The Hobbit",
+      "paid": ""
+    },
+    {
+      "name": "Thorin Oakenshield",
+      "description": "",
+      "number": 47,
+      "link": "",
+      "image": "images/wanted/ThorinOakenshield_TheHobbit.jpg",
+      "category": "The Hobbit",
+      "paid": ""
+    }
+  ]
 }

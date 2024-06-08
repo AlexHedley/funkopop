@@ -65,6 +65,15 @@
       "category": "LotR"
     },
     {
+      "name": "Samwise Gamgee",
+      "description": "Glows in the Dark",
+      "number": 445,
+      "link": "",
+      "image": "images/samwise-gamgee-gitd.jpg",
+      "category": "LotR",
+      "paid": ""
+    },
+    {
       "name": "Nazgul",
       "description": "Nazgul",
       "number": 446,
@@ -243,13 +252,13 @@
       "category": "LotR"
     },
     {
-        "name": "Gandalf vs Balrog",
-        "description": "",
-        "number": 1275,
-        "link": "",
-        "image": "images/gandalfvsbalrog.png",
-        "category": "LotR",
-        "paid": "£45"
+      "name": "Gandalf vs Balrog",
+      "description": "",
+      "number": 1275,
+      "link": "",
+      "image": "images/gandalfvsbalrog.png",
+      "category": "LotR",
+      "paid": "£45"
     },
     {
       "name": "Smeagol",
@@ -276,6 +285,15 @@
       "image": "images/aragorn-gitd.png",
       "category": "LotR",
       "paid": "£21.99"
+    },
+    {
+      "name": "Théoden",
+      "description": "Funko Exclusive",
+      "number": 1467,
+      "link": "https://funko.com/pop-theoden/75702.html",
+      "image": "images/Theoden.png",
+      "category": "LotR",
+      "paid": ""
     },
     {
       "name": "Sauron",
