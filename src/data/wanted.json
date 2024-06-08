@@ -62,6 +62,42 @@
       "image": "images/wanted/ThorinOakenshield_TheHobbit.jpg",
       "category": "The Hobbit",
       "paid": ""
+    },
+    {
+      "name": "Witch King 4 Pack Bitty Funko Pop!",
+      "description": "",
+      "number": 0,
+      "link": "",
+      "image": "images/wanted/bittypop-lotr-4.jpg",
+      "category": "LotR",
+      "paid": ""
+    },
+    {
+      "name": "Frodo 4 Pack Bitty Funko Pop!",
+      "description": "",
+      "number": 0,
+      "link": "",
+      "image": "images/wanted/bittypop-lotr-2.jpg",
+      "category": "LotR",
+      "paid": ""
+    },
+    {
+      "name": "Samwise 4 Pack Bitty Funko Pop!",
+      "description": "",
+      "number": 0,
+      "link": "",
+      "image": "images/wanted/bittypop-lotr-1.jpg",
+      "category": "LotR",
+      "paid": ""
+    },
+    {
+      "name": "Galadriel 4 Pack Bitty Funko Pop!",
+      "description": "",
+      "number": 0,
+      "link": "",
+      "image": "images/wanted/bittypop-lotr-3.jpg",
+      "category": "LotR",
+      "paid": ""
     }
   ]
 }
