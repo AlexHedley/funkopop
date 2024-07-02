@@ -304,6 +304,43 @@
       "category": "LotR",
       "paid": "£21.99"
     },
+
+    {
+      "name": "Witch King 4 Pack Bitty Funko Pop!",
+      "description": "",
+      "number": 0,
+      "link": "",
+      "image": "images/bittypop-lotr-4.jpg",
+      "category": "LotR",
+      "paid": ""
+    },
+    {
+      "name": "Frodo 4 Pack Bitty Funko Pop!",
+      "description": "",
+      "number": 0,
+      "link": "",
+      "image": "images/bittypop-lotr-2.jpg",
+      "category": "LotR",
+      "paid": ""
+    },
+    {
+      "name": "Samwise 4 Pack Bitty Funko Pop!",
+      "description": "",
+      "number": 0,
+      "link": "",
+      "image": "images/bittypop-lotr-1.jpg",
+      "category": "LotR",
+      "paid": ""
+    },
+    {
+      "name": "Galadriel 4 Pack Bitty Funko Pop!",
+      "description": "",
+      "number": 0,
+      "link": "",
+      "image": "images/bittypop-lotr-3.jpg",
+      "category": "LotR",
+      "paid": ""
+    },
     {
       "name": "Bilbo Baggins",
       "description": "Bilbo Baggins",
