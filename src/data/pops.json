@@ -894,6 +894,14 @@
     },
     {
       "name": "Undertaker",
+      "description": "Summerslam '94",
+      "number": 156,
+      "link": "https://funkoeurope.com/products/undertaker-summerslam-94-wwe",
+      "image": "images/undertaker-156.png",
+      "category": "WWE"
+    },
+    {
+      "name": "Undertaker",
       "description": "and Paul Bearer",
       "number": 0,
       "link": "",
