@@ -304,6 +304,15 @@
       "category": "LotR",
       "paid": "£21.99"
     },
+    {
+      "name": "Frodo",
+      "description": "With Orc Helmet",
+      "number": 1565,
+      "link": "https://funko.com/pop-frodo-with-orc-helmet/52343.html",
+      "image": "images/FrodoWithOrcHelmet-1565.png",
+      "category": "LotR",
+      "paid": ""
+    },
 
     {
       "name": "Witch King 4 Pack Bitty Funko Pop!",
