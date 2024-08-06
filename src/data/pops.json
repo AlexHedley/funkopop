@@ -978,6 +978,51 @@
       "image": "images/Undertaker_HOF.png",
       "category": "WWE",
       "paid": "£30"
+    },
+    {
+      "name": "ANUBIS GUARD (METALLIC)",
+      "description": "",
+      "number": 1572,
+      "link": "https://funkoeurope.com/products/anubis-guard-metallic-stargate",
+      "image": "images/stargate-ag.png",
+      "category": "Stargate",
+      "paid": ""
+    },
+    {
+      "name": "Ra",
+      "description": "",
+      "number": 1573,
+      "link": "https://funkoeurope.com/products/ra-stargate",
+      "image": "images/stargate-ra.png",
+      "category": "Stargate",
+      "paid": ""
+    },
+    {
+      "name": "HORUS GUARD (METALLIC)",
+      "description": "",
+      "number": 1574,
+      "link": "https://funkoeurope.com/products/horus-guard-metallic-stargate",
+      "image": "images/stargate-hg.png",
+      "category": "Stargate",
+      "paid": ""
+    },
+    {
+      "name": "DANIEL JACKSON",
+      "description": "",
+      "number": 1575,
+      "link": "https://funkoeurope.com/products/daniel-jackson-stargate",
+      "image": "images/stargate-dj.png",
+      "category": "Stargate",
+      "paid": ""
+    },
+    {
+      "name": "JACK O-NEILL",
+      "description": "",
+      "number": 1576,
+      "link": "https://funkoeurope.com/products/jack-o-neill-stargate",
+      "image": "images/stargate-jo.png",
+      "category": "Stargate",
+      "paid": ""
     }
   ]
 }
