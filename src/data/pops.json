@@ -181,6 +181,15 @@
           "category": "LotR"
       },
       {
+          "name": "King Aragorn",
+          "description": "Special Edition",
+          "number": 534,
+          "link": "",
+          "image": "images/KingAragorn.jpg",
+          "category": "LotR",
+          "paid": "£35 (+ £3.39 P&P)"
+      },
+      {
           "name": "Gimli",
           "description": "Gimli",
           "number": 629,
