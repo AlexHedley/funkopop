@@ -1,6 +1,15 @@
 {
   "pops": [
       {
+          "name": "Bilbo Baggins",
+          "description": "with Bag-End",
+          "number": 39,
+          "link": "https://funko.com/pop-town-bilbo-baggins-with-bag-end/80835.html",
+          "image": "images/BilboWithBagEnd_39.png",
+          "category": "LotR",
+          "paid": ""
+      },
+      {
           "name": "Witch King on Fellbeast",
           "description": "Witch King on Fellbeast",
           "number": 63,
@@ -310,6 +319,43 @@
           "number": 1565,
           "link": "https://funko.com/pop-frodo-with-orc-helmet/52343.html",
           "image": "images/FrodoWithOrcHelmet-1565.png",
+          "category": "LotR",
+          "paid": ""
+      },
+
+      {
+          "name": "Legolas Greenleaf",
+          "description": "With Bow & Arrow",
+          "number": 1577,
+          "link": "https://funko.com/pop-legolas-greenleaf-with-bow-arrow/80831.html",
+          "image": "images/LegolasGreenleaf_1577.png",
+          "category": "LotR",
+          "paid": ""
+      },
+      {
+          "name": "Mouth of Sauron",
+          "description": "",
+          "number": 1578,
+          "link": "https://funko.com/pop-mouth-of-sauron/80832.html",
+          "image": "images/MouthofSauron_1578.png",
+          "category": "LotR",
+          "paid": ""
+      },
+      {
+          "name": "Treebeard",
+          "description": "with Merry & Pippin",
+          "number": 1579,
+          "link": "https://funko.com/pop-super-treebeard-with-merry-pippin/80834.html",
+          "image": "images/TreebeardWithPipAndMerry_1579.png",
+          "category": "LotR",
+          "paid": ""
+      },
+      {
+          "name": "Cave Troll",
+          "description": "",
+          "number": 1580,
+          "link": "https://funko.com/pop-super-cave-troll/80830.html",
+          "image": "images/CaveTroll_1580.png",
           "category": "LotR",
           "paid": ""
       },
