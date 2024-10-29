@@ -369,6 +369,14 @@
             "paid": ""
         },
         {
+            "name": "Boromir",
+            "description": "Boromir (MEME)",
+            "number": 1709,
+            "link": "https://funkoeurope.com/products/boromir-meme-the-lord-of-the-rings",
+            "image": "images/Boromir_meme.png",
+            "category": "LotR"
+        },
+        {
             "name": "Witch King 4 Pack Bitty Funko Pop!",
             "description": "",
             "number": 0,
