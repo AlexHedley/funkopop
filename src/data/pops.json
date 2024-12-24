@@ -506,6 +506,33 @@
             "paid": "£25.57"
         },
         {
+            "name": "Helm Hammerhand",
+            "description": "",
+            "number": 1835,
+            "link": "",
+            "image": "images/helm-hammerhand-1835.jpg",
+            "category": "The War of the Rohirrim",
+            "paid": ""
+        },
+        {
+            "name": "Hera",
+            "description": "",
+            "number": 1836,
+            "link": "",
+            "image": "images/hera-1836.png",
+            "category": "The War of the Rohirrim",
+            "paid": ""
+        },
+        {
+            "name": "Wulf",
+            "description": "",
+            "number": 1837,
+            "link": "",
+            "image": "images/wulf-1837.png",
+            "category": "The War of the Rohirrim",
+            "paid": ""
+        },
+        {
             "name": "Farva",
             "description": "Trooper Rodney 'Rod' Farva",
             "number": 583,
