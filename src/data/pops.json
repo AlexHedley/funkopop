@@ -377,6 +377,69 @@
             "category": "LotR"
         },
         {
+            "name": "Eowyn",
+            "description": "",
+            "number": 1743,
+            "link": "",
+            "image": "images/Eowyn_1743.png",
+            "category": "LotR",
+            "paid": ""
+        },
+        {
+            "name": "Nazgul",
+            "description": "",
+            "number": 1744,
+            "link": "",
+            "image": "images/Nazgul_1744.png",
+            "category": "LotR",
+            "paid": ""
+        },
+        {
+            "name": "Arwen",
+            "description": "",
+            "number": 1745,
+            "link": "",
+            "image": "images/arwen.png",
+            "category": "LotR",
+            "paid": ""
+        },
+        {
+            "name": "Gandalf at the door of Durin",
+            "description": "",
+            "number": 1746,
+            "link": "",
+            "image": "images/Gandalf_at_the_door_of_Durin_1746.png",
+            "category": "LotR",
+            "paid": ""
+        },
+        {
+            "name": "Elrond with Rivendell",
+            "description": "",
+            "number": 1747,
+            "link": "",
+            "image": "images/Elrond_with_Rivendell_1747.png",
+            "category": "LotR",
+            "paid": ""
+        },
+        {
+            "name": "Bilbo Baggins",
+            "description": "",
+            "number": 1748,
+            "link": "",
+            "image": "images/BilboBaggins_1748.png",
+            "category": "LotR",
+            "paid": ""
+        },
+        {
+            "name": "Bilbo Baggins",
+            "description": "Chase",
+            "number": 1748,
+            "link": "",
+            "image": "images/BilboBaggins_1748_Chase.png",
+            "category": "LotR",
+            "paid": ""
+        },
+        {
             "name": "Witch King 4 Pack Bitty Funko Pop!",
             "description": "",
             "number": 0,
@@ -930,6 +993,14 @@
             "number": 904,
             "link": "",
             "image": "images/gambit_904.png",
+            "category": "X-Men"
+        },
+        {
+            "name": "Gambit",
+            "description": "Deadpool and Wolverine",
+            "number": 1496,
+            "link": "https://funkoeurope.com/products/gambit-deadpool-and-wolverine",
+            "image": "images/gambit_1496.png",
             "category": "X-Men"
         },
         {

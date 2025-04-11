@@ -50,70 +50,7 @@
           "description": "",
           "number": 1743,
           "link": "",
-          "image": "images/wanted/Eowyn_1743.png",
-          "category": "LotR",
-          "paid": ""
-      },
-      {
-          "name": "Eowyn",
-          "description": "",
-          "number": 1743,
-          "link": "",
           "image": "images/wanted/Eowyn_1743_Chase.png",
-          "category": "LotR",
-          "paid": ""
-      },
-      {
-          "name": "Nazgul",
-          "description": "",
-          "number": 1744,
-          "link": "",
-          "image": "images/wanted/Nazgul_1744.png",
-          "category": "LotR",
-          "paid": ""
-      },
-      {
-          "name": "Arwen",
-          "description": "",
-          "number": 1745,
-          "link": "",
-          "image": "images/wanted/arwen.png",
-          "category": "LotR",
-          "paid": ""
-      },
-      {
-          "name": "Gandalf at the door of Durin",
-          "description": "",
-          "number": 1746,
-          "link": "",
-          "image": "images/wanted/Gandalf_at_the_door_of_Durin_1746.png",
-          "category": "LotR",
-          "paid": ""
-      },
-      {
-          "name": "Elrond with Rivendell",
-          "description": "",
-          "number": 1747,
-          "link": "",
-          "image": "images/wanted/Elrond_with_Rivendell_1747.png",
-          "category": "LotR",
-          "paid": ""
-      },
-      {
-          "name": "Bilbo Baggins",
-          "description": "",
-          "number": 1748,
-          "link": "",
-          "image": "images/wanted/BilboBaggins_1748.png",
-          "category": "LotR",
-          "paid": ""
-      },
-      {
-          "name": "Bilbo Baggins",
-          "description": "Chase",
-          "number": 1748,
-          "link": "",
-          "image": "images/wanted/BilboBaggins_1748_Chase.png",
           "category": "LotR",
           "paid": ""
       }
