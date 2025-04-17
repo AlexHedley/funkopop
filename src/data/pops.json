@@ -331,7 +331,6 @@
             "category": "LotR",
             "paid": ""
         },
-
         {
             "name": "Legolas Greenleaf",
             "description": "With Bow & Arrow",
@@ -384,6 +383,15 @@
             "image": "images/Eowyn_1743.png",
             "category": "LotR",
             "paid": ""
+        },
+        {
+            "name": "Eowyn",
+            "description": "Chase",
+            "number": 1743,
+            "link": "",
+            "image": "images/Eowyn_1743_Chase.png",
+            "category": "LotR",
+            "paid": "£40"
         },
         {
             "name": "Nazgul",

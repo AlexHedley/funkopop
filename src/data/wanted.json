@@ -44,15 +44,6 @@
           "image": "images/wanted/ThorinOakenshield_TheHobbit.jpg",
           "category": "The Hobbit",
           "paid": ""
-      },
-      {
-          "name": "Eowyn",
-          "description": "",
-          "number": 1743,
-          "link": "",
-          "image": "images/wanted/Eowyn_1743_Chase.png",
-          "category": "LotR",
-          "paid": ""
       }
   ]
 }
