@@ -262,6 +262,16 @@
             "category": "LotR"
         },
         {
+            "name": "Aragorn and Arewn",
+            "description": "2017 Summer Convention Exclusive",
+            "number": 2,
+            "link": "",
+            "image": "images/Aragorn-Arwen.png",
+            "category": "LotR",
+            "paid": "£21.52 + £2.45 P&P",
+            "box": false
+        },
+        {
             "name": "Gandalf the White",
             "description": "Glows in the dark",
             "number": 1203,
