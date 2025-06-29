@@ -6,6 +6,11 @@ h1 {
     color: #0D4EDD;
 }
 
+
+h2 {
+    color: white;
+}
+
 .container {
     /* max-width: 1140px; */
     max-width: 1500px;
@@ -14,4 +19,9 @@ h1 {
 .carousel-caption {
     color: #0D4EDD;
     background-color: rgb(255, 255, 255, 0.6); /*white;*/
+}
+
+h2 > span {
+    font-size: 10px;
+    color: lightgrey;
 }

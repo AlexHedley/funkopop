@@ -80,6 +80,13 @@
                     <br />
 
                     <div class="row">
+                        <div class="col">
+                            <a name="top"></a>
+                            <h2><span><a href="#wanted">Wanted</a></span></h2>
+                        </div>
+                    </div>
+
+                    <div class="row">
                         <div ng-repeat="pop in pops | filter:searchText" class="col-md-3" style="margin-bottom: 50px">
                             <div class="card" style="width: 18rem">
                                 <img ng-if="pop.image.length > 0" ng-src="{{pop.image}}" class="card-img-top" alt="{{pop.name}}" />
@@ -99,7 +106,8 @@
 
                     <div class="row">
                         <div class="col">
-                            <h2>Wanted</h2>
+                            <a name="wanted"></a>
+                            <h2>Wanted <span><a href="#top">Back to top</a></span></h2>
                         </div>
                     </div>
 
