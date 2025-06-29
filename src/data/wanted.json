@@ -35,15 +35,6 @@
           "image": "images/wanted/LegolasGreenleaf_TheHobbit.png",
           "category": "The Hobbit",
           "paid": ""
-      },
-      {
-          "name": "Thorin Oakenshield",
-          "description": "",
-          "number": 47,
-          "link": "",
-          "image": "images/wanted/ThorinOakenshield_TheHobbit.jpg",
-          "category": "The Hobbit",
-          "paid": ""
       }
   ]
 }

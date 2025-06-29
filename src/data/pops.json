@@ -544,6 +544,15 @@
             "category": "The Hobbit"
         },
         {
+            "name": "Thorin Oakenshield",
+            "description": "",
+            "number": 47,
+            "link": "",
+            "image": "images/ThorinOakenshield_TheHobbit.jpg",
+            "category": "The Hobbit",
+            "paid": "£53.99"
+        },
+        {
             "name": "Azog",
             "description": "Azog",
             "number": 48,
