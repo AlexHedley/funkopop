@@ -246,6 +246,15 @@
             "category": "LotR"
         },
         {
+            "name": "Elrond",
+            "description": "Hot Topic Exclusive",
+            "number": 635,
+            "link": "",
+            "image": "images/Elrond.jpg",
+            "category": "LotR",
+            "paid": "£33.45"
+        },
+        {
             "name": "Grishnakh",
             "description": "Grishnakh",
             "number": 636,
