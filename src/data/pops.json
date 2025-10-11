@@ -1,6 +1,24 @@
 {
     "pops": [
         {
+            "name": "Lurtz With Orthanc",
+            "description": "Pop! Town",
+            "number": 2,
+            "link": "",
+            "image": "images/LurtzWithOrthanc_02.png",
+            "category": "LotR",
+            "paid": ""
+        },
+        {
+            "name": "Ringwraith Frodo Pippin Samwise Merry",
+            "description": "The Lord of the Rings - The Fellowship of the Ring, Pop! Moments Deluxe",
+            "number": 9,
+            "link": "",
+            "image": "images/Ringwraith_Frodo_Pippin_Samwise_Merry_09.png",
+            "category": "LotR",
+            "paid": ""
+        },
+        {
             "name": "Bilbo Baggins",
             "description": "with Bag-End",
             "number": 39,
@@ -463,6 +481,24 @@
             "number": 1748,
             "link": "",
             "image": "images/BilboBaggins_1748_Chase.png",
+            "category": "LotR",
+            "paid": ""
+        },
+        {
+            "name": "Gollum",
+            "description": "GITD",
+            "number": 1831,
+            "link": "",
+            "image": "images/Gollum_GITD_1831.png",
+            "category": "LotR",
+            "paid": ""
+        },
+        {
+            "name": "Frodo Baggins",
+            "description": "GITD",
+            "number": 1832,
+            "link": "",
+            "image": "images/FrodoBaggins_GITD_1832.png",
             "category": "LotR",
             "paid": ""
         },
