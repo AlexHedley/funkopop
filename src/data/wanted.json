@@ -26,6 +26,16 @@
           "image": "images/wanted/LegolasGreenleaf_TheHobbit.png",
           "category": "The Hobbit",
           "paid": ""
+      },
+      {
+          "name": "Dunharrow King (Glow)",
+          "description": "Pop! Plus - Only 9,500 of this Limited Edition – Supreme collectible were made!",
+          "number": 1770,
+          "link": "",
+          "image": "images/wanted/Dunharrow-1770.png",
+          "category": "LotR",
+          "rrp": "£20.00",
+          "paid": ""
       }
   ]
 }
