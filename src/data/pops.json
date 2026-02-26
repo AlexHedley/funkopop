@@ -1318,6 +1318,24 @@
             "image": "images/stargate-jo.png",
             "category": "Stargate",
             "paid": ""
+        },
+        {
+            "name": "Samantha Carter",
+            "description": "",
+            "number": 1659,
+            "link": "",
+            "image": "images/SamanthaCarter_1659.jpg",
+            "category": "Stargate",
+            "paid": ""
+        },
+        {
+            "name": "Teal'c",
+            "description": "",
+            "number": 1660,
+            "link": "",
+            "image": "images/Tealc_1660.jpg",
+            "category": "Stargate",
+            "paid": ""
         }
     ]
 }
