@@ -503,6 +503,51 @@
             "paid": ""
         },
         {
+            "name": "Éomer",
+            "description": "",
+            "number": 1982,
+            "link": "https://funko.com/gb/pop-eomer/90310.html",
+            "image": "images/Eomer_1982.png",
+            "category": "LotR",
+            "paid": "£13"
+        },
+        {
+            "name": "Faramir",
+            "description": "",
+            "number": 1983,
+            "link": "https://funko.com/gb/pop-faramir/90311.html",
+            "image": "images/Faramir_1983.png",
+            "category": "LotR",
+            "paid": "£13"
+        },
+        {
+            "name": "Guritz",
+            "description": "",
+            "number": 1984,
+            "link": "https://funko.com/gb/pop-guritz/90312.html",
+            "image": "images/Guritz_1984.png",
+            "category": "LotR",
+            "paid": "£13"
+        },
+        {
+            "name": "Peregrin Took",
+            "description": "",
+            "number": 1985,
+            "link": "https://funko.com/gb/pop-peregrin-took/90313.html",
+            "image": "images/PeregrinTook_1985.png",
+            "category": "LotR",
+            "paid": ""
+        },
+        {
+            "name": "Boromir",
+            "description": "",
+            "number": 1986,
+            "link": "https://funko.com/gb/pop-boromir/90314.html",
+            "image": "images/Boromir_1986.png",
+            "category": "LotR",
+            "paid": "£13"
+        },
+        {
             "name": "Witch King 4 Pack Bitty Funko Pop!",
             "description": "",
             "number": 0,
