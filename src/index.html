@@ -51,6 +51,16 @@
             <div ng-controller="myController">
                 <div class="container">
                     <div class="row justify-content-md-center">
+                        <div class="col-lg-8">
+                            <div class="input-group">
+                                <select class="form-control" ng-model="orderProp" ng-options="option.name as option.name for option in orderOptions">
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <br />
+                    <div class="row justify-content-md-center">
                         <div class="">
                             <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
                                 <ol class="carousel-indicators">
@@ -87,7 +97,7 @@
                     </div>
 
                     <div class="row">
-                        <div ng-repeat="pop in pops | filter:searchText" class="col-md-3" style="margin-bottom: 50px">
+                        <div ng-repeat="pop in pops | filter:searchText | orderBy:orderProp" class="col-md-3" style="margin-bottom: 50px">
                             <div class="card" style="width: 18rem">
                                 <img ng-if="pop.image.length > 0" ng-src="{{pop.image}}" class="card-img-top" alt="{{pop.name}}" />
                                 <div class="card-body">
@@ -112,7 +122,7 @@
                     </div>
 
                     <div class="row">
-                        <div ng-repeat="pop in wantedpops | filter:searchText" class="col-md-3" style="margin-bottom: 50px">
+                        <div ng-repeat="pop in wantedpops | filter:searchText | orderBy:orderProp" class="col-md-3" style="margin-bottom: 50px">
                             <div class="card" style="width: 18rem">
                                 <img ng-src="{{pop.image}}" class="card-img-top" style="filter: grayscale(1)" alt="{{pop.name}}" />
                                 <div class="card-body">

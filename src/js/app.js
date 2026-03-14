@@ -27,5 +27,17 @@ myApp.controller('myController', function ($scope, $http, $q, $filter) {
             });
     };
 
+    $scope.orderOptions = [
+        { name:'name' },
+        { name:'updated_at' },
+        { name:'created_at' }
+    ];
+
+    $scope.orderProp = 'name';
+    $scope.setOrder = function (orderProp) {
+        console.log(orderProp);
+        $scope.orderProp = orderProp;
+    };
+
     $scope.init();
 });
