@@ -51,6 +51,17 @@
             <div ng-controller="myController">
                 <div class="container">
                     <div class="row justify-content-md-center">
+                        <div class="col-lg-8">
+                            <div class="input-group">
+                                <label class="input-group-text" for="orderSelect">Order by:</label>
+                                <select class="form-control" ng-model="orderProp" ng-options="option.name as option.name for option in orderOptions">
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <br />
+                    <div class="row justify-content-md-center">
                         <div class="">
                             <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
                                 <ol class="carousel-indicators">
@@ -93,7 +104,7 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div ng-repeat="pop in popsInGroup" class="col-md-3" style="margin-bottom: 50px">
+                            <div ng-repeat="pop in popsInGroup | orderBy:orderProp" class="col-md-3" style="margin-bottom: 50px">
                                 <div class="card" style="width: 18rem">
                                     <img ng-if="pop.image.length > 0" ng-src="{{pop.image}}" class="card-img-top" alt="{{pop.name}}" />
                                     <div class="card-body">
@@ -125,7 +136,7 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div ng-repeat="pop in popsInGroup" class="col-md-3" style="margin-bottom: 50px">
+                            <div ng-repeat="pop in popsInGroup | orderBy:orderProp" class="col-md-3" style="margin-bottom: 50px">
                                 <div class="card" style="width: 18rem">
                                     <img ng-src="{{pop.image}}" class="card-img-top" style="filter: grayscale(1)" alt="{{pop.name}}" />
                                     <div class="card-body">
@@ -165,6 +176,8 @@
         <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script> -->
         <!-- <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.5/angular.min.js"></script> -->
         <script src="js/vendor/angular.min.js"></script>
+        
         <script src="js/app.js"></script>
+        <script src="js/filters.js"></script>
     </body>
 </html>
