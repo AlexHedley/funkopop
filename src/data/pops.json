@@ -548,6 +548,15 @@
             "paid": "£13"
         },
         {
+            "name": "Gimli",
+            "description": "Nobody Tosses a Dwarf",
+            "number": 2028,
+            "link": "https://funko.com/gb/pop-gimli-nobody-tosses-a-dwarf/90464.html",
+            "image": "images/2028_Gimli.png",
+            "category": "LotR",
+            "paid": "£9.75"
+        },
+        {
             "name": "Witch King 4 Pack Bitty Funko Pop!",
             "description": "",
             "number": 0,
