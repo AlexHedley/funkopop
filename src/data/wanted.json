@@ -36,6 +36,76 @@
           "category": "LotR",
           "rrp": "£20.00",
           "paid": ""
+      },
+      {
+          "name": "Smaug",
+          "description": "Pop! Deluxe Smaug (Metallic)",
+          "number": 2188,
+          "link": "https://funko.com/gb/pop-deluxe-smaug-metallic/93130.html",
+          "image": "images/wanted/2188-Smaug.png",
+          "category": "The Hobbit",
+          "rrp": "£25.00",
+          "paid": ""
+      },
+      {
+          "name": "Kili & Fili",
+          "description": "Pop! Kili the Dwarf & Fili the Dwarf 2-Pack",
+          "number": 0,
+          "link": "https://funko.com/gb/pop-kili-the-dwarf-fili-the-dwarf-2-pack/93465.html",
+          "image": "images/wanted/Kili_Fili.png",
+          "category": "The Hobbit",
+          "rrp": "£24.00",
+          "paid": ""
+      },
+      {
+          "name": "Sauron",
+          "description": "Pop! Premium Sauron (Glow)",
+          "number": 2161,
+          "link": "https://funko.com/gb/pop-premium-sauron-glow/94750.html",
+          "image": "images/wanted/2161-Sauron.png",
+          "category": "LotR",
+          "rrp": "£16.00",
+          "paid": ""
+      },
+      {
+          "name": "Thranduil",
+          "description": "Pop! Thranduil",
+          "number": 2184,
+          "link": "https://funko.com/gb/pop-thranduil/80833.html",
+          "image": "images/wanted/2181_Thranduil.png",
+          "category": "The Hobbit",
+          "rrp": "£13.00",
+          "paid": ""
+      },
+      {
+          "name": "Thorin Oakenshield",
+          "description": "Pop! Thorin Oakenshield (Metallic)",
+          "number": 2187,
+          "link": "https://funko.com/gb/pop-thorin-oakenshield-metallic/93466.html",
+          "image": "images/wanted/2187_ThorinOakenshield.png",
+          "category": "The Hobbit",
+          "rrp": "£13.00",
+          "paid": ""
+      },
+      {
+          "name": "Bilbo",
+          "description": "Pop! Bilbo Baggins with Chest",
+          "number": 2185,
+          "link": "https://funko.com/gb/pop-bilbo-baggins-with-chest/93132.html",
+          "image": "images/wanted/2185_Bilbo.png",
+          "category": "The Hobbit",
+          "rrp": "£13.00",
+          "paid": ""
+      },
+      {
+          "name": "Azog",
+          "description": "Pop! Azog the Defiler",
+          "number": 2186,
+          "link": "https://funko.com/gb/pop-azog-the-defiler/93131.html",
+          "image": "images/wanted/2186_Azog.png",
+          "category": "The Hobbit",
+          "rrp": "£13.00",
+          "paid": ""
       }
   ]
 }
